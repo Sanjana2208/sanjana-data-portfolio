@@ -1,10 +1,10 @@
-# 🌐 Sanjana Vinod Chavan – Data Analytics Portfolio
+🌐 Sanjana Vinod Chavan – Data Analytics Portfolio
 
 Welcome to my personal portfolio website! This repository showcases my work in data analytics, including real-world projects, technical expertise, and my journey into uncovering insights through data.
 
 ---
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
 Hi, I'm **Sanjana Vinod Chavan**, a Pune-based Computer Engineering graduate (2023) with a growing passion for data analytics. I specialize in using **Python**, **SQL**, **Power BI**, and **statistical modeling** to turn raw data into clear insights.
 
@@ -12,7 +12,7 @@ I’m driven by curiosity and continuous learning—whether it’s exploring new
 
 ---
 
-## 🎓 Education & Certifications
+🎓 Education & Certifications
 
 - **B.E. in Computer Engineering** – Zeal College of Engineering, Pune (2023)
 - **Certifications:**
@@ -22,7 +22,7 @@ I’m driven by curiosity and continuous learning—whether it’s exploring new
 
 ---
 
-## 💼 Work Experience
+💼 Work Experience
 
 **Graduate Apprentice Trainee** – Corning Technologies, Chakan, Pune  
 *Duration:* 6 months  
@@ -33,7 +33,7 @@ I’m driven by curiosity and continuous learning—whether it’s exploring new
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
 
 ### 1. Zone-Based Suspicious Activity Detection
 Designed and implemented a predictive analytics system to detect anomalies using zone-specific behavior patterns.
@@ -49,7 +49,7 @@ Actively working with public datasets to practice data cleaning, exploratory dat
 
 ---
 
-## 🧠 Capabilities
+🧠 Capabilities
 
 - Data Visualization & Reporting
 - Dashboard Creation (Power BI)
@@ -59,7 +59,7 @@ Actively working with public datasets to practice data cleaning, exploratory dat
 
 ---
 
-## 📬 Contact
+📬 Contact
 
 - **Phone:** +91 88307 82291
 - **LinkedIn:** [linkedin.com/in/sanjana-chavan-a0a00a210](https://linkedin.com/in/sanjana-chavan-a0a00a210)
@@ -67,16 +67,8 @@ Actively working with public datasets to practice data cleaning, exploratory dat
 
 ---
 
-## 🎨 Design Highlights
 
-This portfolio was built with a modern, minimalist aesthetic in mind—optimized for clarity and ease of navigation.  
-Color palette: *Teal, navy blue, white, coral accents*  
-Typography: *Montserrat, Open Sans*  
-Responsive design with smooth scroll and mobile compatibility.
-
----
-
-## 🚀 Future Goals
+🚀 Future Goals
 
 I'm eager to grow as a data analyst by:
 - Collaborating on freelance and team projects
