@@ -62,8 +62,8 @@ Actively working with public datasets to practice data cleaning, exploratory dat
 📬 Contact
 
 - **Phone:** +91 88307 82291
-- **LinkedIn:** [linkedin.com/in/sanjana-chavan-a0a00a210](https://linkedin.com/in/sanjana-chavan-a0a00a210)
-- **GitHub:** [Your GitHub Profile URL Here]
+- **LinkedIn:** linkedin.com/in/sanjana-chavan-a0a00a210
+- **GitHub:**   https://github.com/sanjana2208/
 
 ---
 
