@@ -77,5 +77,5 @@ I'm eager to grow as a data analyst by:
 
 ---
 
-> “Let’s collaborate to uncover insights through data!”
+  
 
